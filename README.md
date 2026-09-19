@@ -4,6 +4,20 @@ Welcome to the Amazon Robotics Hackathon! Your challenge is to route **drive uni
 
 The floor is a weighted graph: nodes are locations (storage, stations, travel waypoints) and edges are aisle segments that take time to traverse. Your algorithm decides, one time step at a time, where each drive unit moves next.
 
+## Team & Achievement
+
+### BODGY — 14th Place
+
+Our team **BODGY** placed **14th out of 40 teams** in the Amazon Robotics Hackathon 2026.
+
+**Team Members**
+- Brad Nguyen
+- Youssef
+- Dian Ping
+- Gloria
+
+This solution was developed collaboratively by our four-person team.
+
 ## Prerequisites
 
 - Install Git: https://git-scm.com/downloads
